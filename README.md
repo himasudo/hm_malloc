@@ -1,6 +1,6 @@
 # hm-malloc-allocator
 
-A simple Custom memory allocator implementation using sbrk() with first-fit strategy.
+A simple custom memory allocator implementation using sbrk() with first-fit strategy.
 
 ## Features
 
